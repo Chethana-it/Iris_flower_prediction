@@ -12,5 +12,5 @@ NumPy
 Pandas
 Scikit-learn
 
-<h1>Results<h/1>
+<h1>Results</h1>
 The trained model achieves an accuracy of X% on the test set. The classification report and confusion matrix are also provided for evaluating the model's performance.
